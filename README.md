@@ -1,6 +1,2 @@
 # Bootstrap-Project
-asdfghsdfghxcvbn
-fhmfghjk
-fghjk
-ghjk
-bnm,
+Using only by Bootstrap Created a websites.
